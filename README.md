@@ -13,7 +13,9 @@ This project uses mysql and Sequelize to create a back-end API for an E-Commerce
 - Insomnia
 
 ## Insomnia Routes
-[Demo](https://drive.google.com/file/d/1OrlYONm8pV9EH3P33FDdgKt5kyC4w3hi/view)
+[Demo Here](https://drive.google.com/file/d/1OrlYONm8pV9EH3P33FDdgKt5kyC4w3hi/view)
+
+Insomnia Image
 ![Insomnia Routes](orm-routes-insomnia.JPG)
 
 ## Installation/Use
